@@ -1,2 +1,2 @@
-# go-open-projects
+# Go Open Projects
 Golang Open Projects
